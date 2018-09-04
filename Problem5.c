@@ -18,7 +18,7 @@ unsigned long long int lcm(unsigned long long int a, unsigned long long int b) {
 int main() {
   unsigned long long int res=1;
 	int i;
-	for(i=1;i<=13;i++) {
+	for(i=1;i<=20;i++) {
 		res = lcm(i,res);
 	}
 	printf("%llu\n", res);

@@ -16,8 +16,8 @@ int palinCheck(long int num) {
 
 int main() {
 	long int i, j, pro, large = 0;
-	for(i=999; i>=1; i--) {
-		for(j=999; j>=1; j--) {
+	for(i=999; i>=100; i--) {
+		for(j=999; j>=100; j--) {
 			pro = i*j;
 			if(palinCheck(pro)==1) {
 				if(pro > large)

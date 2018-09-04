@@ -2,7 +2,7 @@
 #include<math.h>
 
 int main() {
-	long long int num = 456, i, lpf=2;
+	long long int num = 600851475143, i, lpf=2;
 	while(num%2==0)
 		num/=2;
 	

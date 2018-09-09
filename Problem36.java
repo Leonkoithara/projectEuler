@@ -1,3 +1,9 @@
+/**
+ *   FAQ: Why Java?
+ *   A: Just because I wanted to ¯\_(ツ)_/¯
+ */
+
+
 class Problem36 {
   private static boolean isPalin(String s) {
     String rev = new StringBuilder(s).reverse().toString();

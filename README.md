@@ -2,7 +2,8 @@
 This repository contains solutions for https://projecteuler.net problems.
 
 #### Code-quality warning
-Most of the code in this repo is inefficient af. 
-*You have been warned*.
+Most of the problems are solved in the naive possible way.
 
-However, if you're irritated about the code-quality and can improve it. Feel free to contribute.
+*You have been warned!* :grimacing:
+
+However, if you can improve the efficiency of the code, please feel free to contribute. Your help will be much appreciated :smile:.
